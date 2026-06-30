@@ -2,7 +2,8 @@
 
 ## 1. Team / student
 
-- Name:
+- Name: Kiều Đức Long
+- MSV: 2A202600939
 - Repo/commit:
 - Date:
 

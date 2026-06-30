@@ -2,8 +2,8 @@
 
 ## 1. Team / student
 
-- **Name:** Nguyễn Huy Tú
-- **MSV:** 2A202600170
+- **Name:** Kiều Đức Long
+- **MSV:** 2A202600939
 - **Repo/commit:** `a1996ba`
 - **Date:** 2026-05-11
 - **Project:** `phase2-track3-day8-langgraph-agent`
